@@ -12,6 +12,7 @@ function Home(props) {
             <h3>Keep track of your softskill level...</h3>
             <h1>
               <button><Link to="/login">Login</Link></button> &nbsp;&nbsp;
+              <br/> <br/>
               <button><Link to="/signup">Signup</Link></button>
             </h1>
           </main>
